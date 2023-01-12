@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello!+I'm+cyrusDev;Student+in+Software+Engineering;Nice+to+meet+you...)](https://cyrusdev.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello!+I'm+cyrusDev;Web+Developer;Nice+to+meet+you...)](https://cyrusdev.com)
 
 # 💫 About Me:
 🔭 I’m currently working on my skills<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with my  public repositories<br>🌱 I’m currently learning software engineering<br>💬 Ask me about web development
